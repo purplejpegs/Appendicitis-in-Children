@@ -1,0 +1,1 @@
+My goal was to try and predict wether or not a child has appendicitis using only their labs , so i excluded the images of the appendix and the measurements. This data was grabbed from the UCI data repository
